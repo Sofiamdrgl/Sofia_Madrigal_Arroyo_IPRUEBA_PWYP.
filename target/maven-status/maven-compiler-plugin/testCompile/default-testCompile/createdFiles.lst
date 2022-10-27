@@ -1,0 +1,13 @@
+com\ITicket\demo\service\iDetalleService.class
+com\ITicket\demo\ITicketApplicationTests.class
+com\ITicket\demo\service\ArtistaService.class
+com\ITicket\demo\repository\IEventoRepository.class
+com\ITicket\demo\repository\IArtistaRepository.class
+com\ITicket\demo\entity\Detalle.class
+com\ITicket\demo\service\EventoService.class
+com\ITicket\demo\service\iEventoService.class
+com\ITicket\demo\entity\Evento.class
+com\ITicket\demo\service\iArtistaService.class
+com\ITicket\demo\service\DetalleService.class
+com\ITicket\demo\entity\Artista.class
+com\ITicket\demo\repository\IDetalleRepository.class
